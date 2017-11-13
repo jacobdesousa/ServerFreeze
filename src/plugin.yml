@@ -1,0 +1,7 @@
+name: ServerFreeze
+main: me.nitro.serverfreeze.ServerFreeze
+version: 1.2.1
+author: Jacob
+commands:
+  freeze:
+    description: Freezes the server.
